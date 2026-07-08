@@ -1,4 +1,4 @@
-package abstractfactory;
+package padroescriacionais.abstractfactory;
 
 public class CadeiraModerna implements Cadeira  {
 

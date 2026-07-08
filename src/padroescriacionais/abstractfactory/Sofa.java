@@ -1,4 +1,4 @@
-package abstractfactory;
+package padroescriacionais.abstractfactory;
 
 public interface Sofa {
 	

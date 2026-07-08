@@ -1,9 +1,9 @@
-package abstractfactory.fabria;
+package padroescriacionais.abstractfactory.fabrica;
 
-import abstractfactory.Cadeira;
-import abstractfactory.CadeiraModerna;
-import abstractfactory.Sofa;
-import abstractfactory.SofaModerno;
+import padroescriacionais.abstractfactory.Cadeira;
+import padroescriacionais.abstractfactory.CadeiraModerna;
+import padroescriacionais.abstractfactory.Sofa;
+import padroescriacionais.abstractfactory.SofaModerno;
 
 public class FabricaModerna implements FabricaDeMoveis{
 

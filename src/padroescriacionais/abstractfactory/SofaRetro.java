@@ -1,4 +1,4 @@
-package abstractfactory;
+package padroescriacionais.abstractfactory;
 
 public class SofaRetro implements Sofa{
 

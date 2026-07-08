@@ -1,4 +1,4 @@
-package factorymethod;
+package padroescriacionais.factorymethod;
 
 public class EmailNotification implements Notification{
 

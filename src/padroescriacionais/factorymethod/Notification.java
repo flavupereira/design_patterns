@@ -1,4 +1,4 @@
-package factorymethod;
+package padroescriacionais.factorymethod;
 
 public interface Notification {
 

@@ -1,8 +1,8 @@
-package abstractfactory;
+package padroescriacionais.abstractfactory;
 
-import abstractfactory.fabria.FabricaDeMoveis;
-import abstractfactory.fabria.FabricaModerna;
-import abstractfactory.fabria.FabricaRetro;
+import padroescriacionais.abstractfactory.fabrica.FabricaDeMoveis;
+import padroescriacionais.abstractfactory.fabrica.FabricaModerna;
+import padroescriacionais.abstractfactory.fabrica.FabricaRetro;
 
 public class Aplicacao {
 	
